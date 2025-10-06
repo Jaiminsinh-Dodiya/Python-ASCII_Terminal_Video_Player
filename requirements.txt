@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+numpy==1.24.3
+rich==13.7.0
+click==8.1.7
+colorama==0.4.6
+psutil==5.9.6
+pillow==10.0.1
